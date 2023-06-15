@@ -21,5 +21,3 @@ let package = Package(
         )
     ]
 )
-
-curl -H "Authorization: token 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" -H "Content-Type: application/zip" --data-binary "/Users/rbhalani_1/Documents/LearningProject/SPMDemoFramework/SPMDemoFramework.xcframework.zip" "https://uploads.github.com/repos/reemabhalani/SPMDemoPackage/releases/1.0.1/assets?name=SPMDemoFramework.xcframework.zip"
