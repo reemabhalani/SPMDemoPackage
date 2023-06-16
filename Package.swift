@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMDemoFramework",
-            url: "https://github.com/reemabhalani/SPMDemoPackage/releases/download/1.0.3/SPMDemoFramework-1.0.3.xcframework.zip",
-            checksum: "36d8c2d73c49033f8dc4b7fff982ee6a62df8148b5f45a64a40dbdaac9e91728"
+            url: "https://github.com/reemabhalani/SPMDemoPackage/releases/download/1.0.5/SPMDemoFramework-1.0.5.xcframework.zip",
+            checksum: "0c0288d921d66f31afbec2f0196e898d9ad1d56ac81e8d6f3c5a99c98a49a4e3"
         )
     ]
 )
